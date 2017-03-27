@@ -2,7 +2,7 @@
 My Web Homework
 
 <body>
-<body <style>
+<body 
  <body bgcolor="orange">
 </style>
 <p align="right">資工二甲 學號:404261581 温婉真</p>
@@ -14,6 +14,5 @@ My Web Homework
 <h3 style="color: green" align="center">My hobbies: Listening to music,Painting,Playing Computer Games</h3>
 <img src="http://art40.photozou.jp/pub/930/1441930/photo/89123437.v1310833265.jpg" 
 style="position:relative;top:50px;left:100px"> 
-</style> 
 </body>
 
