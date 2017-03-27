@@ -1,7 +1,6 @@
 # AboutMe.github.io
 My Web Homework
- 
-<body bgcolor="orange">
+<body bgcolor="#cccccc">
 <p align="right">資工二甲 學號:404261581 温婉真</p>
 <h1 style="color: blue" align="center">Hello !Welcome to this page~</h1>
 <h2 style="color: blue" align="center">Something About Me:</h2>
