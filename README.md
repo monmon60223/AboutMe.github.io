@@ -6,6 +6,6 @@
 <h3 style="color: green" align="center">My Birthday: 1996/10/31</h3>
 <h3 style="color: green" align="center">I'm major in computer science and information engineering.</h3>
 <h3 style="color: green" align="center">My hobbies: Listening to music,Painting,Playing Computer Games</h3>
-<img src="https://github.com/monmon60223/AboutMe.github.io/blob/master/%E6%AB%BB%E8%8A%B1.jpg?raw=true" width=100% height=90%>
+<img src="https://github.com/monmon60223/AboutMe.github.io/blob/master/%E6%AB%BB%E8%8A%B1.jpg?raw=true" width="100%" height="90%">
 </body>
 
