@@ -1,10 +1,10 @@
-<body style="background-color:orange;">
 <script>$(document).ready(function() {
 $("div").addClass("animated bounce");}
 $("div").on("click",function(){
 $("#target1").html("My Name: wan chen Wen");
 });
 });</script>
+<body style="background-color:orange;">
 <h4 align="right">資工二甲 學號:404261581 温婉真</h4>
 <h1 style="color: blue" align="center">Hello !Welcome to this page~</h1>
 <div style="text-align: center;">
