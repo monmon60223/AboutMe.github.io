@@ -1,6 +1,6 @@
 <script>$(document).ready(function() {
-$("div").addClass("animated bounce");}
-$("div").on("click",function(){
+$("#target5").addClass("animated bounce");
+$("#target5").on("click",function(){
 $("#target1").html("My Name: wan chen Wen");
 });
 });</script>
@@ -8,7 +8,7 @@ $("#target1").html("My Name: wan chen Wen");
 <h4 align="right">資工二甲 學號:404261581 温婉真</h4>
 <h1 style="color: blue" align="center">Hello !Welcome to this page~</h1>
 <div style="text-align: center;">
-   <input type="button" value="Something About Me">
+   <input id="target5" type="button" value="Something About Me">
 </div>
 <h3 style="color: green" align="center" id="target1">My Name?</h3>
 <h3 style="color: green" align="center" id="target2">My Birthday: 1996/10/31</h3>
