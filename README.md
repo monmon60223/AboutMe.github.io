@@ -3,7 +3,7 @@
 <script>$(document).ready(function() {
 $("input").addClass("animated bounce");
 $("input").on("click",function(){
-$("#target1").html("My Name: wan chen Wen");
+$("#target1").text("My Name: wan chen Wen");
 });
 });</script>
 <h4 align="right">資工二甲 學號:404261581 温婉真</h4>
