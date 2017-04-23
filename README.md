@@ -1,7 +1,9 @@
 <body style="background-color:orange;">
 <h4 align="right">資工二甲 學號:404261581 温婉真</h4>
 <h1 style="color: blue" align="center">Hello !Welcome to this page~</h1>
-<input style="text-align: center;" type="button" value="Click Here" onClick="window.alert('Good Luck to You!!!');">
+<div style="text-align: center;">
+   <input type="button" value="Click Here" onClick="window.alert('Good Luck to You and Have a Nice Day');">
+</div>
 <h2 style="color: blue" align="center">Something About Me</h2>
 <h3 style="color: green" align="center">My Name: wan chen Wen</h3>
 <h3 style="color: green" align="center">My Birthday: 1996/10/31</h3>
