@@ -1,6 +1,6 @@
 <script>$(document).ready(function() {
-$("#target5").addClass("animated bounce");
-$("#target5").on("click",function(){
+$("input").addClass("animated bounce");
+$("input").on("click",function(){
 $("#target1").html("My Name: wan chen Wen");
 });
 });</script>
