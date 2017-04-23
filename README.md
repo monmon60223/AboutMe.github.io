@@ -6,9 +6,10 @@
 <h3 style="color: green" align="center" id="target2">My Birthday: 1996/10/31</h3>
 <h3 style="color: green" align="center" id="target3">I'm major in computer science and information engineering.</h3>
 <h3 style="color: green" align="center" id="target4">My hobbies: Listening to music,Painting,Playing Computer Games</h3>
-<p></p>
 <div style="text-align: center;">
    <input type="button" value="My Facebook" onClick="window.location='https://www.facebook.com/profile.php?id=100006711463328';">
 </div>
+<p></p>
+
 <img src="https://github.com/monmon60223/AboutMe.github.io/blob/master/%E6%AB%BB%E8%8A%B1.jpg?raw=true" width="100%" height="50%">
 </body>
